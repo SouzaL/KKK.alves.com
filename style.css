@@ -1,6 +1,11 @@
 /*@import url('https://fonts.googleapis.com/
 css?family=Roboto'); */
 
+body{
+  margin: 0 auto;
+  display: block;
+}
+
 .nav{
   height: 50px;
   background: #1abc9c;
