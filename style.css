@@ -49,7 +49,7 @@ body{
 }
 
 .about .about-content{
-  margin: 150px auto 0 auto;
+  margin: 0 auto 0 auto;
   width:90%;
 }
 
@@ -74,7 +74,7 @@ body{
 }
 
 .services .services-content{
-  margin: 80px auto 0 auto;
+  margin: 50px auto 0 auto;
   text-align: center;
 }
 
@@ -86,7 +86,7 @@ body{
   life-style: none;
   display: inline-block:
   margin: 20px;
-  width: 300px;
+  width: 50px;
 }
 
 .services-content .card-container img{
